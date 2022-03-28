@@ -3,7 +3,7 @@ layout: layout.html
 title: Reese Pattison Portfolio
 eleventyNavigation:
      key: Home
-
+     order: 1
 ---
 
 <div class="TitleDiv">

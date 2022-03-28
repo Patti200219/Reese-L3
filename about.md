@@ -3,7 +3,7 @@ layout: layout.html
 title: About Me
 eleventyNavigation:
      key: About Me
-
+     order: 4
 ---
 <div class="TitleDiv">
 

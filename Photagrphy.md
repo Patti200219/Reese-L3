@@ -3,6 +3,7 @@ layout: layout.html
 title: Photography
 eleventyNavigation: 
  key: Photography 
+ order: 2
 ---
 <div class="TitleDiv">
 
